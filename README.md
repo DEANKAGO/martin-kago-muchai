@@ -1,6 +1,6 @@
 # burger palace
+welcome to Burger palace.
+I have designed this website to show the type off burgers being sold at burger palace using html and css
+to view more about my project click on the link in my about. 
+thank you.
 
-I used html tags and elements such as p,div,span,header tags,unordered list tags,img,
-I used the following styling rules selectors, background colour,font family,borders,font weight.
-The web page is visually appealing
-The page is published to gh-pages.

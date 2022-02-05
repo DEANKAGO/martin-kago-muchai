@@ -32,6 +32,9 @@ nav ul li a {
   color: black;
   text-decoration: none;
 }
+nav ul li a span {
+  color: rgb(235, 160, 20);
+}
 
 nav ul li a.brand_text {
   font-size: 2em;
@@ -153,6 +156,25 @@ section.first_section {
   flex-wrap: wrap;
 }
 
+.third1 {
+  height: 200px;
+}
+.third2 {
+  height: 200px;
+}
+.third3 {
+  height: 200px;
+}
+.third4 {
+  height: 200px;
+}
+.third5 {
+  height: 200px;
+}
+.third6 {
+  height: 200px;
+}
+
 .burgerBox {
   height: 550px;
   width: 300px;
@@ -174,8 +196,7 @@ section.first_section {
 
 .new {
   position: relative;
-  top: -90px;
-  left: 125px;
+  left: 120px;
   width: 150px;
   height: 150px;
   clip-path: polygon(7% 0, 47% 0, 100% 52%, 100% 100%);
@@ -198,11 +219,128 @@ section.first_section {
 .fourth-section {
   background-color: #e1ebe6;
   height: 500px;
+  display: inline-block;
+  justify-content: space-between;
+  width: 100%;
 }
+.the-double :first-child {
+  font-weight: bolder;
+  font-size: 100px;
+  margin: 0px;
+  padding-bottom: 30px;
+  padding-top: 40px;
+}
+.the-double {
+  display: inline-block;
+  margin-left: 80px;
+}
+.the-double :first-child span {
+  color: yellow;
+}
+.sec4p {
+  padding-top: -0px;
+  font-size: 20px;
+}
+
+.double-decker img {
+  height: 400px;
+}
+.double-decker {
+  position: relative;
+  display: grid;
+  float: right;
+  height: 350px;
+  justify-content: center;
+}
+
+.double2 {
+  margin-top: -320px;
+}
+
 .fifth-section {
   background-color: #f6b300;
-  height: 500px;
+  display: inline-block;
+  justify-content: space-between;
+  width: 100%;
 }
+.fifth {
+  display: inline-block;
+  justify-content: space-between;
+  width: 100%;
+}
+.fifth-image {
+  float: right;
+  margin-right: 50px;
+}
+.mobile1 {
+  height: 700px;
+  padding-right: 30px;
+}
+.mobile2 {
+  height: 700px;
+}
+.fifth-app {
+  display: inline-block;
+  justify-content: space-between;
+  padding-top: 50px;
+  margin-left: 100px;
+}
+.fifth-app:first-child {
+  font-weight: bolder;
+  font-size: 50px;
+}
+
 .footer {
-  height: 250px;
+  background-color: #e1ebe6;
+}
+.footer1 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  text-align: center;
+}
+ul li {
+  size: 20px;
+  list-style: none;
+  padding-top: 5px;
+}
+.centre {
+  text-align: center;
+}
+
+.start p {
+  font-weight: bold;
+  float: right;
+  font-size: 30px;
+  font-style: italic;
+}
+.start p span {
+  color: yellow;
+}
+.email {
+  border-style: groove;
+  padding-right: 180px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.subscribe1 button {
+  background-color: yellow;
+  height: 50px;
+  width: 150px;
+}
+
+.last {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  padding-bottom: 20px;
+  height: 20px;
+}
+
+.start {
+  margin-right: 250px;
 }
