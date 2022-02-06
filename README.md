@@ -1,8 +1,8 @@
-# Portfolio
+# Burger Palace
 
 ##### By Martin Kago
 
-### It is a description of my resume.
+### It is a description of my website Burger Palace.
 
 ## Table of Content
 
@@ -15,7 +15,7 @@
 
 ## Description
 
-<p>This is  a website that shows my portfolio/resume.It contains all my background information,some sample projects that I have worked on and the experience gained.</p>
+<p>This is  a website that shows my burger palace website project.</p>
 
 ## Installation
 
@@ -39,7 +39,7 @@
 
 - Materialize CSS
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#Burger Palace)
 
 ## Licence
 
@@ -65,10 +65,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#Burger Palace)
 
 ## Authors Info
 
 Email: martokhago@gmail.com
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#Bueger Palace)
