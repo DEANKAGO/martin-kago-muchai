@@ -222,6 +222,7 @@ section.first_section {
   display: inline-block;
   justify-content: space-between;
   width: 100%;
+  justify-content: baseline;
 }
 .the-double :first-child {
   font-weight: bolder;
