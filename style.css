@@ -47,7 +47,7 @@ nav ul.second_list {
 }
 
 nav ul.second_list li {
-  padding-right: 5em;
+  padding-right: 3em;
   margin: 1.3em 0;
 }
 
@@ -238,24 +238,15 @@ section.first_section {
   margin-left: 80px;
 }
 
-.the-double .dot {
+#dot {
   height: 25px;
   width: 25px;
-  background-color: #bbb;
+  background-color: orange;
   border-radius: 50%;
-  display: inline-block;
+  display: flex;
 }
-.the-double .dot:first-child {
-  color: orange;
-}
-
-.the-double .arrow {
-  border: solid black;
-  border-width: 0 3px 3px 0;
-  display: inline-block;
-  padding: 3px;
-  transform: rotate(-45deg);
-  -webkit-transform: rotate(-45deg);
+#dot > i {
+  float: right;
 }
 
 .the-double :first-child span {
