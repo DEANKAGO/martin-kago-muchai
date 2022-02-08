@@ -124,6 +124,9 @@ section.first_section {
   align-items: center;
   flex-wrap: wrap;
 }
+.second_section img {
+  height: 100px;
+}
 
 .box {
   border: 1px solid black;
