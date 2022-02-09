@@ -334,6 +334,10 @@ ul li {
 .centre {
   text-align: center;
 }
+.centre ul li a {
+  text-decoration: none;
+  color: black;
+}
 
 .start p {
   font-weight: bold;
@@ -344,18 +348,17 @@ ul li {
 .start p span {
   color: yellow;
 }
-.email {
-  border-style: groove;
-  padding-right: 180px;
-  padding-top: 15px;
-  padding-bottom: 15px;
+#email {
+  height: 20px;
 }
-.subscribe1 button {
-  background-color: yellow;
-  height: 50px;
-  width: 150px;
+.subscribe1 a {
+  text-decoration: none;
+  color: black;
 }
 
+button {
+  background: orange;
+}
 .last {
   width: 100%;
   display: flex;
